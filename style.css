@@ -1,0 +1,77 @@
+h1{
+
+}
+body{
+    margin: 0%;
+.inter-uniquifier>{
+  font-family:"Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+}
+.orang-highlight{
+    color: orange;
+}
+.hafe-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hafe-width img{
+    width: 100%;
+}
+span{
+    color: palegreen;
+}
+.top-banner{
+background-image: url(image/top-banner.png);
+background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.mide-project{
+    background-image:url("image/dream-bg.png") ;
+    background-repeat:no-repeat;
+    background-position: right;
+}
+
+p{
+    color: gray;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.last-section{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+background-position: left;
+}
+#fast-div{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, tomato, lightsalmon);
+    border-image-slice:1;
+
+}
+#second-div{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, blue, lightblue);
+    border-image-slice:1;
+}
+footer p{
+    text-align: center;
+}
